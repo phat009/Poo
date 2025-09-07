@@ -1,4 +1,4 @@
-# Poo
+# Estructuras Condicionales
 Programas de clase - López Ruíz José Manuel, 23151285
 ° Programa 1: Clasifica un triangulo según sus lados.
 ° Programa 2: Indica si un año es bisiesto o no.
